@@ -1,2 +1,3 @@
 # geom
-Useful geometrical functions and types in Go
+
+Useful geometry functions and types in Go
